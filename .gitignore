@@ -1,0 +1,9 @@
+code/.venv/
+code/index/
+code/build-*/
+code/current/
+__pycache__/
+*.npy
+*.npz
+_inventar/
+slides/_check.png

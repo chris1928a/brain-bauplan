@@ -1,0 +1,7 @@
+.venv
+build-*
+current
+index
+__pycache__
+*.npy
+*.npz
