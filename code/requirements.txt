@@ -1,0 +1,6 @@
+# Torch wird separat installiert, siehe README.md (CPU oder CUDA). Getestet mit torch 2.15.0 (CPU), Python 3.11.
+sentence-transformers==6.0.0
+numpy==2.4.6
+pymupdf==1.28.2
+mcp==1.30.0
+transformers==5.22.1
